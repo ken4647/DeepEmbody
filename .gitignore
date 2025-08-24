@@ -11,3 +11,13 @@ install/
 temp/
 .vscode/
 
+#log
+log.txt
+
+.DS_Store
+
+.cursor/
+.cursorrules
+*.pt
+.env
+
